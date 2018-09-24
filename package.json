@@ -1,6 +1,6 @@
 {
   "name": "react-native-flic-nonpbf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implement Flic (non PBF) into your React-Native app",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "author": "Michel Hiemstra <apps@stormzaak.nl>",
   "license": "GNU v3",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/mdahiemstra/react-native-flic-nonpbf.git"
+    "type": "git",
+    "url": "https://github.com/mdahiemstra/react-native-flic-nonpbf.git"
   },
   "peerDependencies": {
     "react-native": "^0.41.2"
